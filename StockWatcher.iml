@@ -17,6 +17,9 @@
     <facet type="gwt" name="GWT">
       <configuration>
         <setting name="webFacet" value="Web" />
+        <packaging>
+          <module name="com.google.gwt.sample.stockwatcher.StockWatcherJUnit" enabled="false" />
+        </packaging>
       </configuration>
     </facet>
   </component>

@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EclipseCodeFormatter">
+    <option name="defaultSettings" value="true" />
+    <option name="formatter" value="ECLIPSE" />
+    <option name="id" value="1464707468775" />
+    <option name="name" value="default" />
+    <option name="optimizeImports" value="false" />
+    <option name="pathToConfigFileJava" value="$USER_HOME$/RABOBANK/RHD_Code_Style_Formatter.xml" />
+    <option name="selectedJavaProfile" value="CRMVirtueel" />
+  </component>
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
